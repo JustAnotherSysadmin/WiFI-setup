@@ -3,5 +3,5 @@ Automatically join a specific WiFI network that is WPA2-PSK for use by employees
 
 You can export the XML you need by running this command:
 
-  netsh wlan export profile %SSIDName% folder=c:\scripts\WiFI-setup.xml
+  netsh wlan export profile %SSIDName% folder=c:\scripts\WiFI-config.xml
 
