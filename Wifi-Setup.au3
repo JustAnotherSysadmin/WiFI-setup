@@ -18,8 +18,8 @@
 
    Script Dependancies and files:
      1)  c:\scripts\wifi-CorpWIFI.xml
-	 2)  c:\scripts\ihp-wifi-logfile.txt
-	 3)  c:\scripts\ihp-wifi-setup.txt
+	 2)  c:\scripts\wifi-logfile.txt
+	 3)  c:\scripts\wifi-setup.txt
 
 #ce ----------------------------------------------------------------------------
 
